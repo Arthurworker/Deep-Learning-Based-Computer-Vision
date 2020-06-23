@@ -1,8 +1,6 @@
 # Computer Vision With Deep Learning
 我收集的一些与 CV 相关的 GitHub 仓库 🕋，持续更新
 
-[toc]
-
 ## 🧡Awesome 系列 ➡ Awesome List
 > Awesome 系列一般是某一话题的总结，覆盖面较广
 - awsome 总仓库 [awesome](https://github.com/sindresorhus/awesome)
@@ -24,24 +22,24 @@
 > 如 ImageNet CNN, 检测模型 Fast RCNN 等
 - Caffe  [Model-Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)
 - Caffe [caffe-model](https://github.com/soeaver/caffe-model)
-- Pytorch [pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch)
+- PyTorch [pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch)
 - TensorFlow [models](https://github.com/tensorflow/models)
 ### 📙generative models 生成式模型
 > 如 GAN, VAE 等
-- Pytorch  [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)
-- Pytorch + Tensorflow https://github.com/wiseodd/generative-models
+- PyTorch  [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)
+- PyTorch + Tensorflow https://github.com/wiseodd/generative-models
 - TensorFlow [tensorflow generative model collections](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
 - TensorFlow [generative models](https://github.com/wiseodd/generative models)
 
 ## 💚框架系列 ➡ Deep Learning Framework
 > 深度学习框架 Pytorch, TensorFlow, Caffe 的官方仓库，教程及相关代码
-### 📒 Pytorch
+### 📒 PyTorch
 - 官方仓库 [pytorch](https://github.com/pytorch/pytorch)
-- pytorch 英文教程 [pytorch tutorial](https://github.com/yunjey/pytorch-tutorial)
+- PyTorch 英文教程 [pytorch tutorial](https://github.com/yunjey/pytorch-tutorial)
 - 《深度学习框架PyTorch：入门与实战》 [pytorch book](https://github.com/chenyuntc/pytorch-book)
 - 《动手学深度学习》 [Dive into DL PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
-- 莫烦的 pytorch 教程 [PyTorch Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)
-- pytorch 相关内容 [Awesome pytorch list](https://github.com/bharathgs/Awesome-pytorch-list)
+- 莫烦的 PyTorch 教程 [PyTorch Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)
+- PyTorch 相关内容 [Awesome pytorch list](https://github.com/bharathgs/Awesome-pytorch-list)
 
 ### 📘 TensorFlow
 - 官方仓库 [tensorflow](https://github.com/tensorflow/tensorflow)
