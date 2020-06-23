@@ -50,7 +50,7 @@
 ### 📔 Caffe
 - 官方仓库 [caffe](https://github.com/BVLC/caffe)
 - Convert Caffe model to TensorFlow model [caffe tensorflow](https://github.com/ethereon/caffe-tensorflow)
-- Convert PyTorch model to Caffe model [pytorch2caffe](-https://github.com/longcw/pytorch2caffe)
+- Convert PyTorch model to Caffe model [pytorch2caffe](https://github.com/longcw/pytorch2caffe)
 - Convert PyTorch model to Caffe model [PytorchToCaffe](https://github.com/xxradon/PytorchToCaffe)
 - Convert Caffe model to PyTorch model [caffemodel2pytorch](https://github.com/vadimkantorov/caffemodel2pytorch)
 
