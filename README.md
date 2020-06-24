@@ -1,7 +1,7 @@
 # Computer Vision With Deep Learning
 我收集的一些与 CV 相关的 GitHub 仓库 🕋，持续更新
 
-## Awesome 系列 : Awesome List
+## Awesome List
 > Awesome 系列一般是某一话题的总结，覆盖面较广
 - awsome 总仓库 [awesome](https://github.com/sindresorhus/awesome)
 - 免费编程书籍 [free programming books](https://github.com/EbookFoundation/free-programming-books)
@@ -10,12 +10,11 @@
 - 深度学习 [awesome deep learning papers](https://github.com/terryum/awesome-deep-learning-papers)
 - 深度视觉 [awesome deep vision](https://github.com/kjw0612/awesome-deep-vision)
 
-## 研究方向系列 : Reasearch Direction
-> 针对 CV 具体研究方向的仓库（目前研究目标检测，后续慢慢补充）
-
+## Reasearch Direction
 - 自监督学习 [awesome self supervised learning](https://github.com/jason718/awesome-self-supervised-learning)
+- 弱监督学习 [WeakSupervisedSegmentationList](https://github.com/JackieZhangdx/WeakSupervisedSegmentationList)
 
-## 模型系列 : Model
+## Models
 > 已实现的模型，前面的标记为所用的深度学习框架
 ### pretrained models 预训练的模型
 > 最经典通用的模型如 ImageNet CNN, 检测模型 Fast RCNN 等
@@ -43,7 +42,7 @@
 - Keras [image-segmentation-keras](https://github.com/divamgupta/image-segmentation-keras)
 - keras [segmentation_models](https://github.com/qubvel/segmentation_models)
 
-## 框架系列 : Deep Learning Framework
+## Deep Learning Framework
 > 深度学习框架 Pytorch, TensorFlow, Caffe, Keras 的官方仓库，教程及相关代码
 ### PyTorch
 - 官方仓库 [pytorch](https://github.com/pytorch/pytorch)
