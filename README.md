@@ -1,4 +1,4 @@
-# Computer Vision With Deep Learning
+# Deep Learning Based Computer Vision
 我收集的一些与 CV 相关的 GitHub 仓库，持续更新
 > Some GitHub repositories about computer vision and deep learning.
 
@@ -13,7 +13,7 @@
 
 ## Reasearch Direction
 - 自监督学习 self supervised learning [awesome self supervised learning](https://github.com/jason718/awesome-self-supervised-learning)
-- 弱监督学习 waekly supervised learning [WeakSupervisedSegmentationList](https://github.com/JackieZhangdx/WeakSupervisedSegmentationList)
+- 弱监督学习 weakly supervised learning [WeakSupervisedSegmentationList](https://github.com/JackieZhangdx/WeakSupervisedSegmentationList)
 
 ## Models
 > 已实现的模型，前面的标记为所用的深度学习框架
