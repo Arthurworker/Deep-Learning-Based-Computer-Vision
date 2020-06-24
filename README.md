@@ -1,5 +1,6 @@
 # Computer Vision With Deep Learning
-我收集的一些与 CV 相关的 GitHub 仓库 🕋，持续更新
+我收集的一些与 CV 相关的 GitHub 仓库，持续更新
+> Some GitHub repositories about computer vision and deep learning.
 
 ## Awesome List
 > Awesome 系列一般是某一话题的总结，覆盖面较广
@@ -11,12 +12,12 @@
 - 深度视觉 [awesome deep vision](https://github.com/kjw0612/awesome-deep-vision)
 
 ## Reasearch Direction
-- 自监督学习 [awesome self supervised learning](https://github.com/jason718/awesome-self-supervised-learning)
-- 弱监督学习 [WeakSupervisedSegmentationList](https://github.com/JackieZhangdx/WeakSupervisedSegmentationList)
+- 自监督学习 self supervised learning [awesome self supervised learning](https://github.com/jason718/awesome-self-supervised-learning)
+- 弱监督学习 waekly supervised learning [WeakSupervisedSegmentationList](https://github.com/JackieZhangdx/WeakSupervisedSegmentationList)
 
 ## Models
 > 已实现的模型，前面的标记为所用的深度学习框架
-### pretrained models 预训练的模型
+### Pretrained models 预训练的模型
 > 最经典通用的模型如 ImageNet CNN, 检测模型 Fast RCNN 等
 - Caffe  [Model-Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)
 - Caffe [caffe-model](https://github.com/soeaver/caffe-model)
@@ -24,14 +25,14 @@
 - TensorFlow [models](https://github.com/tensorflow/models)
 - Keras [deep-learning-models](https://github.com/fchollet/deep-learning-models)
 - Keras [keras-applications](https://github.com/keras-team/keras-applications)
-### generative models 生成式模型
+### Generative models 生成式模型
 > 如 GAN, VAE 等
 - PyTorch  [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)
 - PyTorch + Tensorflow [generative-models](https://github.com/wiseodd/generative-models)
 - TensorFlow [tensorflow generative model collections](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
 - TensorFlow [generative models](https://github.com/wiseodd/generative models)
 - Keras [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)
-### detection models 检测模型 
+### Detection models 检测模型 
 - 目标检测论文 [deep learning object detection](https://github.com/hoya012/deep_learning_object_detection)
 - Fast R-CNN， Faster R-CNN ，Mask R-CNN 实现 [detectorch](https://github.com/ignacio-rocco/detectorch)
 ### Segmentation models 分割模型
