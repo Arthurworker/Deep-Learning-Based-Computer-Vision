@@ -18,7 +18,6 @@
 ## Models
 > 已实现的模型，前面的标记为所用的深度学习框架
 - Pretrained models 预训练的模型
-> 最经典通用的模型如 ImageNet CNN, 检测模型 Fast RCNN 等
   - Caffe  [Model-Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)
   - Caffe [caffe-model](https://github.com/soeaver/caffe-model)
   - PyTorch [pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch)
@@ -26,7 +25,6 @@
   - Keras [deep-learning-models](https://github.com/fchollet/deep-learning-models)
   - Keras [keras-applications](https://github.com/keras-team/keras-applications)
 - Generative models 生成式模型
-> 如 GAN, VAE 等
   - PyTorch  [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)
   - PyTorch + Tensorflow [generative-models](https://github.com/wiseodd/generative-models)
   - TensorFlow [tensorflow generative model collections](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
@@ -36,7 +34,6 @@
   - 目标检测论文 [deep learning object detection](https://github.com/hoya012/deep_learning_object_detection)
   - Fast R-CNN， Faster R-CNN ，Mask R-CNN 实现 [detectorch](https://github.com/ignacio-rocco/detectorch)
 - Segmentation models 分割模型
-> 图像分割，语义分割等
   - [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
   - PyTorch [segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch)
   - PyTorch [semantic-segmentation-pytorch](https://github.com/CSAILVision/semantic-segmentation-pytorch)
