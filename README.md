@@ -7,8 +7,11 @@
 - 免费编程书籍 [free programming books](https://github.com/EbookFoundation/free-programming-books)  ![Github stars](https://img.shields.io/github/stars/EbookFoundation/free-programming-books.svg)
 - 计算机视觉  [awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision)  ![Github stars](https://img.shields.io/github/stars/jbhuang0604/awesome-computer-vision.svg)
 - 人工智能 [awesome artificial intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)  ![Github stars](https://img.shields.io/github/stars/owainlewis/awesome-artificial-intelligence.svg)
-- 深度学习 [awesome deep learning papers](https://github.com/terryum/awesome-deep-learning-papers)  ![Github stars](https://img.shields.io/github/stars/terryum/awesome-deep-learning-papers.svg)
+- 深度学习论文 [awesome deep learning papers](https://github.com/terryum/awesome-deep-learning-papers)  ![Github stars](https://img.shields.io/github/stars/terryum/awesome-deep-learning-papers.svg)
 - 深度视觉 [awesome deep vision](https://github.com/kjw0612/awesome-deep-vision)  ![Github stars](https://img.shields.io/github/stars/kjw0612/awesome-deep-vision.svg)
+- 《Deep Learning》[DeepLearning](https://github.com/MingchaoZhu/DeepLearning)  ![Github stars](https://img.shields.io/github/stars/MingchaoZhu/DeepLearning.svg)
+- 《统计学习方法》[Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code)  ![Github stars](https://img.shields.io/github/stars/Dod-o/Statistical-Learning-Method_Code.svg)
+- 《可解释机器学习》[Interpretable Machine Learning](https://github.com/MingchaoZhu/InterpretableMLBook)  ![Github stars](https://img.shields.io/github/stars/MingchaoZhu/InterpretableMLBook.svg)
 
 ## Reasearch Direction
 - 自监督学习 self supervised learning [awesome self supervised learning](https://github.com/jason718/awesome-self-supervised-learning)  ![Github stars](https://img.shields.io/github/stars/jason718/awesome-self-supervised-learning.svg)
