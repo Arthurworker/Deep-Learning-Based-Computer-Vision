@@ -3,7 +3,6 @@
 > Some GitHub repositories about computer vision and deep learning.
 
 ## Awesome List
-> Awesome 系列一般是某一话题的总结，覆盖面较广
 - awsome 总仓库 [awesome](https://github.com/sindresorhus/awesome)
 - 免费编程书籍 [free programming books](https://github.com/EbookFoundation/free-programming-books)
 - 计算机视觉  [awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision)
@@ -16,7 +15,6 @@
 - 弱监督学习 weakly supervised learning [WeakSupervisedSegmentationList](https://github.com/JackieZhangdx/WeakSupervisedSegmentationList)
 
 ## Models
-> 已实现的模型，前面的标记为所用的深度学习框架
 - Pretrained models 预训练的模型
   - Caffe  [Model-Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)
   - Caffe [caffe-model](https://github.com/soeaver/caffe-model)
@@ -41,7 +39,6 @@
   - keras [segmentation_models](https://github.com/qubvel/segmentation_models)
 
 ## Deep Learning Framework
-> 深度学习框架 Pytorch, TensorFlow, Caffe, Keras 的官方仓库，教程及相关代码
 - PyTorch
   - 官方仓库 [pytorch](https://github.com/pytorch/pytorch)
   - PyTorch 英文教程 [pytorch tutorial](https://github.com/yunjey/pytorch-tutorial)
