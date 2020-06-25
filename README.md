@@ -15,7 +15,7 @@
   - 机器学习 [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)  ![Github stars](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning.svg)
   - 《统计学习方法》[Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code)  ![Github stars](https://img.shields.io/github/stars/Dod-o/Statistical-Learning-Method_Code.svg)
   - 《可解释机器学习》[Interpretable Machine Learning](https://github.com/MingchaoZhu/InterpretableMLBook)  ![Github stars](https://img.shields.io/github/stars/MingchaoZhu/InterpretableMLBook.svg)
-- Deep Learning
+- **Deep Learning**
   - 《Deep Learning》[DeepLearning](https://github.com/MingchaoZhu/DeepLearning)  ![Github stars](https://img.shields.io/github/stars/MingchaoZhu/DeepLearning.svg)
   - 《Deep Learning》[Deep Learning](https://github.com/janishar/mit-deep-learning-book-pdf)  ![Github stars](https://img.shields.io/github/stars/janishar/mit-deep-learning-book-pdf.svg)
 ## **Reasearch Direction**
