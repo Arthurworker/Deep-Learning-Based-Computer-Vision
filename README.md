@@ -2,6 +2,12 @@
 我收集的一些与 CV 相关的 GitHub 仓库，持续更新
 > Some GitHub repositories about computer vision and deep learning.
 
+## Table of Contents
+- [Awesome List](#awesome-list)
+- [Research Direction](#research-direction)
+- [Models](#models)
+- [Deep Learning Framework](#deep-learning-framework)
+
 ## Awesome List
 - **Awesome**
   - awsome 总仓库 [awesome](https://github.com/sindresorhus/awesome)  ![Github stars](https://img.shields.io/github/stars/sindresorhus/awesome.svg)
@@ -18,7 +24,7 @@
 - **Deep Learning**
   - 《Deep Learning》[DeepLearning](https://github.com/MingchaoZhu/DeepLearning)  ![Github stars](https://img.shields.io/github/stars/MingchaoZhu/DeepLearning.svg)
   - 《Deep Learning》[Deep Learning](https://github.com/janishar/mit-deep-learning-book-pdf)  ![Github stars](https://img.shields.io/github/stars/janishar/mit-deep-learning-book-pdf.svg)
-## **Reasearch Direction**
+## Research Direction
 - 自监督学习 self supervised learning [awesome self supervised learning](https://github.com/jason718/awesome-self-supervised-learning)  ![Github stars](https://img.shields.io/github/stars/jason718/awesome-self-supervised-learning.svg)
 - 弱监督学习 weakly supervised learning [Weak Supervised Segmentation List](https://github.com/JackieZhangdx/WeakSupervisedSegmentationList)  ![Github stars](https://img.shields.io/github/stars/JackieZhangdx/WeakSupervisedSegmentationList.svg)
 
