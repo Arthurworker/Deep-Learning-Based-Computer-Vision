@@ -45,6 +45,7 @@
 - **Detection models** 检测模型 
   - 目标检测论文 [deep learning object detection](https://github.com/hoya012/deep_learning_object_detection)  ![Github stars](https://img.shields.io/github/stars/hoya012/deep_learning_object_detection.svg)
   - Fast R-CNN， Faster R-CNN ，Mask R-CNN 实现 [detectorch](https://github.com/ignacio-rocco/detectorch)  ![Github stars](https://img.shields.io/github/stars/ignacio-rocco/detectorch.svg)
+   - detectron2 [detectron2](https://github.com/facebookresearch/detectron2) ![Github stars](https://img.shields.io/github/stars/facebookresearch/detectron2.svg)
 - **Segmentation models** 分割模型
   - [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)  ![Github stars](https://img.shields.io/github/stars/mrgloom/awesome-semantic-segmentation.svg)
   - PyTorch [segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch)  ![Github stars](https://img.shields.io/github/stars/qubvel/segmentation_models.pytorch.svg)
