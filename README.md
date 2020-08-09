@@ -27,6 +27,7 @@
 ## Learning Schemes
 - 自监督学习 self supervised learning [awesome self supervised learning](https://github.com/jason718/awesome-self-supervised-learning)  ![Github stars](https://img.shields.io/github/stars/jason718/awesome-self-supervised-learning.svg)
 - 弱监督学习 weakly supervised learning [Weak Supervised Segmentation List](https://github.com/JackieZhangdx/WeakSupervisedSegmentationList)  ![Github stars](https://img.shields.io/github/stars/JackieZhangdx/WeakSupervisedSegmentationList.svg)
+- 小样本学习 [awesome-few-shot-learning](https://github.com/e-271/awesome-few-shot-learning) [awesome-zero-shot-learning](https://github.com/sbharadwajj/awesome-zero-shot-learning)
 
 ## Models
 - **Pretrained models** 预训练的模型
@@ -42,11 +43,14 @@
   - TensorFlow [tensorflow generative model collections](https://github.com/hwalsuklee/tensorflow-generative-model-collections)  ![Github stars](https://img.shields.io/github/stars/hwalsuklee/tensorflow-generative-model-collections.svg)
   - TensorFlow [generative models](https://github.com/wiseodd/generative-models)  ![Github stars](https://img.shields.io/github/stars/wiseodd/generative-models.svg)
   - Keras [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)  ![Github stars](https://img.shields.io/github/stars/eriklindernoren/Keras-GAN.svg)
-- **Detection models** 检测模型 
+- **Image Classification** 分类
+  - awesome image classification [awesome-image-classification](https://github.com/weiaicunzai/awesome-image-classification)
+- **Object Detection** 检测 
   - 目标检测论文 [deep learning object detection](https://github.com/hoya012/deep_learning_object_detection)  ![Github stars](https://img.shields.io/github/stars/hoya012/deep_learning_object_detection.svg)
+  - awesome object detection [awesome-object-detection](https://github.com/amusi/awesome-object-detection) 
   - Fast R-CNN， Faster R-CNN ，Mask R-CNN 实现 [detectorch](https://github.com/ignacio-rocco/detectorch)  ![Github stars](https://img.shields.io/github/stars/ignacio-rocco/detectorch.svg)
    - detectron2 [detectron2](https://github.com/facebookresearch/detectron2) ![Github stars](https://img.shields.io/github/stars/facebookresearch/detectron2.svg)
-- **Segmentation models** 分割模型
+- **Object Segmentation** 分割
   - [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)  ![Github stars](https://img.shields.io/github/stars/mrgloom/awesome-semantic-segmentation.svg)
   - PyTorch [segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch)  ![Github stars](https://img.shields.io/github/stars/qubvel/segmentation_models.pytorch.svg)
   - PyTorch [semantic-segmentation-pytorch](https://github.com/CSAILVision/semantic-segmentation-pytorch)  ![Github stars](https://img.shields.io/github/stars/CSAILVision/semantic-segmentation-pytorch.svg)
