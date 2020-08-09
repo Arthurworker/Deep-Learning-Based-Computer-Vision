@@ -70,11 +70,11 @@
 - **Generative Models** 生成式模型
   - GAN 论文列表 [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo) ![Github stars](https://img.shields.io/github/stars/hindupuravinash/the-gan-zoo.svg)
   - GAN 论文列表 [AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers) ![Github stars](https://img.shields.io/github/stars/zhangqianhui/AdversarialNetsPapers.svg)
-    - PyTorch  [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)  ![Github stars](https://img.shields.io/github/stars/eriklindernoren/PyTorch-GAN.svg)
-    - PyTorch + Tensorflow [generative-models](https://github.com/wiseodd/generative-models)  ![Github stars](https://img.shields.io/github/stars/wiseodd/generative-models.svg)
-    - TensorFlow [tensorflow generative model collections](https://github.com/hwalsuklee/tensorflow-generative-model-collections)  ![Github stars](https://img.shields.io/github/stars/hwalsuklee/tensorflow-generative-model-collections.svg)
-    - TensorFlow [generative models](https://github.com/wiseodd/generative-models)  ![Github stars](https://img.shields.io/github/stars/wiseodd/generative-models.svg)
-    - Keras [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)  ![Github stars](https://img.shields.io/github/stars/eriklindernoren/Keras-GAN.svg)
+  - PyTorch  [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)  ![Github stars](https://img.shields.io/github/stars/eriklindernoren/PyTorch-GAN.svg)
+  - PyTorch + Tensorflow [generative-models](https://github.com/wiseodd/generative-models)  ![Github stars](https://img.shields.io/github/stars/wiseodd/generative-models.svg)
+  - TensorFlow [tensorflow generative model collections](https://github.com/hwalsuklee/tensorflow-generative-model-collections)  ![Github stars](https://img.shields.io/github/stars/hwalsuklee/tensorflow-generative-model-collections.svg)
+  - TensorFlow [generative models](https://github.com/wiseodd/generative-models)  ![Github stars](https://img.shields.io/github/stars/wiseodd/generative-models.svg)
+  - Keras [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)  ![Github stars](https://img.shields.io/github/stars/eriklindernoren/Keras-GAN.svg)
 - **Face Recognition** 以上方向在人脸的应用
   - [awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) ![Github stars](https://img.shields.io/github/stars/ChanChiChoi/awesome-Face_Recognition.svg)
   - [face_recognition](https://github.com/ageitgey/face_recognition) ![Github stars](https://img.shields.io/github/stars/ageitgey/face_recognition.svg)
