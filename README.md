@@ -30,7 +30,10 @@
 - 小样本学习 few shot learning [awesome-few-shot-learning](https://github.com/e-271/awesome-few-shot-learning) ![Github stars](https://img.shields.io/github/stars/e-271/awesome-few-shot-learning.svg)
 - 小样本学习 zero shot learning [awesome-zero-shot-learning](https://github.com/sbharadwajj/awesome-zero-shot-learning) ![Github stars](https://img.shields.io/github/stars/sbharadwajj/awesome-zero-shot-learning.svg)
 
+- 注意力机制 attention scheme [ awesome-fast-attention](https://github.com/Separius/awesome-fast-attention) ![Github stars](https://img.shields.io/github/stars/Separius/awesome-fast-attention.svg)
+
 ## Models
+
 - **Pretrained Models** 预训练的模型
   - Caffe  [Model-Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)  ![Github stars](https://img.shields.io/github/stars/BVLC/caffe.svg)
   - Caffe [caffe-model](https://github.com/soeaver/caffe-model)  ![Github stars](https://img.shields.io/github/stars/soeaver/caffe-model.svg)
